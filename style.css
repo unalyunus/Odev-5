@@ -1,0 +1,48 @@
+ .div0{
+    height: auto;
+    
+ }
+ 
+ .div1{
+     background-color: #dcdcdc;
+     width: 90%;
+     margin:0px;
+     height: 100px;
+     padding-top: 20px;
+     margin-bottom: 20px;
+ }  
+
+.div2{
+    width: 37%;
+    background-color: #7EE5DA;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    
+    text-align: center;
+    
+}
+
+.div3{
+    width: 16%;
+    background-color: #70CCC2;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-top: 2px;
+
+}
+
+.div4{
+    width: 37%;
+    background-color: #62B3AA;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+  
+    margin-top: 5px;
+}
+
+a{
+    color:#0000EE;
+}
